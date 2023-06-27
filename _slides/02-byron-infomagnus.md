@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Caption new Caption!!!
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
